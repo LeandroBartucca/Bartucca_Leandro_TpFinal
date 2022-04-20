@@ -1,0 +1,10 @@
+DATOS DE LA BASE DE DATOS
+
+
+BD: hotel
+Servidor: localhost
+Usuario: tpfinal
+Contraseña: tpfinal
+Puerto: 3306
+JDBC URL: jdbc:mysql://localhost:3306/hotel?serverTimezone=UTC
+
